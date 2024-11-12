@@ -1,31 +1,30 @@
 # Hello World in PHP
 
-Este es un proyecto simple de "Hola Mundo" utilizando PHP.
+This is a simple "Hello World" project using PHP.
 
-## Contenido
+## Contents
 
-- [Descripción](#descripción)
-- [Requisitos](#requisitos)
-- [Instalación](#instalación)
-- [EjecutarApp](#EjecutarApp)
+- [Description](#description)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [RunApp](#runapp)
 
-## Descripción
+## Description
 
-Este proyecto es una aplicación de ejemplo que muestra "¡Hola Mundo!".
+This project is a sample application that displays "Hello World!".
 
-## Requisitos
+## Requirements
 
-- [PHP](https://www.php.net/) (v7.4 o superior)
+- [PHP](https://www.php.net/) (v7.4 or higher)
 
-## Instalación
+## Installation
 
-1. Clona el repositorio:
+1. Clone the repository:
 
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+   git clone https://github.com/nicoliberios/Hello_World_PHP.git
    ```
-## EjecutarApp
-
-   ```bash
+## RunApp
+ ```bash
    php -S localhost:8000
-   ```
+ ```
